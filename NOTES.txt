@@ -1,0 +1,7 @@
+Compute nominal radiation for each day based upon earth tilt, position, etc.
+Compute deviation from nominal
+Correlate deviation to variables
+Normalize deviation with nominal
+
+
+
