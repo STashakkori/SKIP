@@ -1,9 +1,13 @@
 Authors of SKIP are:
 
-1. Sina Tashakkori
-2. Tammy Statham
-3. Shannon McDade
-4. Kalen Braman
+Sina Tashakkori
+Tammy Statham
+Shannon McDade
+Kalen Braman
+
+Offsite contributions made by teammate:
+
+Kyle Knox
 
 To run SKIP 1.0 you just need to say python util.py and ensure that you have access to the other source files and modules
 
